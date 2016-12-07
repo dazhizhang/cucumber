@@ -1,6 +1,8 @@
 # cucumber
 cucumber rails
 運行cucumber使用 rake features
+会启动 bundle exec cucumber --profile default
+
 参考：
 
 http://l404.blogspot.com/
